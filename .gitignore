@@ -1,3 +1,5 @@
 /.vscode
 /algorithm/*
 !/algorithm/*.cpp
+/leetcode/*
+!/leetcode/*.cpp
